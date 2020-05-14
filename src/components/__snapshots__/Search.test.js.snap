@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search component should show search button 1`] = `ShallowWrapper {}`;

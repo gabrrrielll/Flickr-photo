@@ -1,0 +1,27 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`loads data from API 1`] = `
+[MockFunction] {
+  "calls": Array [
+    Array [
+      "https://api.flickr.com/services/rest/?method=flickr.photos.search&format=json&nojsoncallback=1&api_key=undefined&is_getty=1&page=1",
+      Object {
+        "credentials": "include",
+        "headers": Object {
+          "Accept": "application/json",
+          "Content-Type": "application/json",
+        },
+        "mode": "no-cors",
+      },
+    ],
+  ],
+  "results": Array [
+    Object {
+      "type": "return",
+      "value": undefined,
+    },
+  ],
+}
+`;
+
+exports[`loads data from API 2`] = `Promise {}`;
