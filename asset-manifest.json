@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Flickr-photo/static/css/main.73a26ec7.chunk.css",
+    "main.js": "/Flickr-photo/static/js/main.f7df8555.chunk.js",
+    "main.js.map": "/Flickr-photo/static/js/main.f7df8555.chunk.js.map",
+    "runtime-main.js": "/Flickr-photo/static/js/runtime-main.c8bfc9c6.js",
+    "runtime-main.js.map": "/Flickr-photo/static/js/runtime-main.c8bfc9c6.js.map",
+    "static/js/2.b36a6d18.chunk.js": "/Flickr-photo/static/js/2.b36a6d18.chunk.js",
+    "static/js/2.b36a6d18.chunk.js.map": "/Flickr-photo/static/js/2.b36a6d18.chunk.js.map",
+    "index.html": "/Flickr-photo/index.html",
+    "precache-manifest.82ddeef499d68b6fcc8874edec0a8512.js": "/Flickr-photo/precache-manifest.82ddeef499d68b6fcc8874edec0a8512.js",
+    "service-worker.js": "/Flickr-photo/service-worker.js",
+    "static/css/main.73a26ec7.chunk.css.map": "/Flickr-photo/static/css/main.73a26ec7.chunk.css.map",
+    "static/js/2.b36a6d18.chunk.js.LICENSE.txt": "/Flickr-photo/static/js/2.b36a6d18.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8bfc9c6.js",
+    "static/js/2.b36a6d18.chunk.js",
+    "static/css/main.73a26ec7.chunk.css",
+    "static/js/main.f7df8555.chunk.js"
+  ]
+}
